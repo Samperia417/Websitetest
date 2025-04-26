@@ -1,7 +1,28 @@
+body{
+  background-color: slateblue;
+}
+
 h1{
-    text-align: center;
-    font-size: 50px;
-   } 
+  color: white;
+  background-color: ;
+  text-align: center;
+  border: ;
+  border-radius: ;
+}
+
+img {
+  height: 550px;
+  width: 350px;
+  border: ;
+  border-radius: 15px;
+  display: block;
+  margin: auto;
+}
+
 p{
-    font-size: 40px;
-  }
+  padding: 20px 0 20px 0;
+  background-color: ;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+}
